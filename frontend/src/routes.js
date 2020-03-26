@@ -1,10 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Switch } from 'react-router-dom';
 
 import Logon from './pages/Logon';
 import Register from './pages/Register';
 import Profile from './pages/Profile';
 import NewIncident from './pages/NewIncident';
+
+import Route from './router';
 
 export default function Routes() {
   return (
@@ -17,11 +19,11 @@ export default function Routes() {
           <Register />
         </Route>
         
-        <Route path="/profile" >
+        <Route path="/profile" isPrivate >
           <Profile />
         </Route>
         
-        <Route path="/incidents/new" >
+        <Route path="/incidents/new" isPrivate >
           <NewIncident />
         </Route>
       </Switch>
