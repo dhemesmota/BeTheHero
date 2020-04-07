@@ -19,8 +19,8 @@
 </p>
 
 <h4 align="center">Aplicação para ONGs</h4>
-<p align="center">O objetivo é a divulgação de casos de ONGs para que alcance as pessoas que estejam interessadas em ajudar com doações.
-A ferramenta possibilita contato via e-mail ou whatsapp.
+<p align="center">O objetivo é a divulgação de casos recebidos por ONGs com o intuito de alcançar pessoas que estejam interessadas em ajudar com doações.
+A ferramenta possibilita contato via E-mail ou WhatsApp.
 </p>
 
 
@@ -29,6 +29,11 @@ A ferramenta possibilita contato via e-mail ou whatsapp.
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="BeTheHero-Telas" title="BeTheHero-Telas" src=".github/bethehero_b.png" width="100%" />
+  <br>
 </p>
 
   <br>  <br>
