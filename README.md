@@ -2,7 +2,10 @@
   <img alt="BeTheHero" title="BeTheHero" src=".github/logo.svg" width="200px" />
   <br>
 </h1>
-
+<h1 align="center">
+  <a href="https://insomnia.rest/run/?label=BeTheHero%20-%20API%20Docs&uri=https%3A%2F%2Fgithub.com%2Fdhemesmota%2FBeTheHero%2Fblob%2Fmaster%2F.github%2Finsomnia_api_docs.json" target="_blank"> <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
+  </a>
+</h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dhemesmota/BeTheHero">
   
@@ -13,7 +16,6 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dhemesmota/BeTheHero">
   
   <img alt="GitHub License" src="https://img.shields.io/github/license/dhemesmota/BeTheHero">
-
 </p>
 
 <h4 align="center">Aplicação para ONGs</h4>
@@ -29,7 +31,7 @@ A ferramenta possibilita contato via e-mail ou whatsapp.
   <a href="#clipboard-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
+  <br>  <br>
 ## :page_with_curl: Instruções 
 Para executar essa aplicação você precisa ter o [Git](https://git-scm.com), [Node.js v12][nodejs] ou superior, [Yarn](https://yarnpkg.com) ou [NPM](https://www.npmjs.com/get-npm) instalado no seu computador.<br>
 No seu prompt de comando:
